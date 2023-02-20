@@ -1,7 +1,7 @@
 
 var urls=[
  
-  'https://qaurl.vip/D716Nl',
+  'http://t.cn/A6ChVmnf',
 	  	
 		  	
 ];
