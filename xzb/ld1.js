@@ -1,7 +1,7 @@
 
 var urls=[
  
-  'https://qaurl.vip/BuFCK8',
+  'http://service-6tulm0hs-1313409281.gz.apigw.tencentcs.com',
 	  	
 		  	
 ];
