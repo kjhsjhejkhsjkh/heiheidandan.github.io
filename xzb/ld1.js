@@ -1,9 +1,9 @@
 document.writeln("<center><h5>建议两个都下载！！！！</h5></center>");
 document.writeln("<center>");
-document.writeln("			<a href=\"http://service-6tulm0hs-1313409281.gz.apigw.tencentcs.com\"><img src=\"http://123.186.147.14:83/1.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
+document.writeln("			<a href=\"http://gcloudweb-1256818929.cos.ap-shanghai.myqcloud.com/OfficialSite_Tencent/feedbackImg/94f812c0-b398-11ed-99d6-d5cd3ea921111677170343402.html\"><img src=\"http://123.186.147.14:83/1.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
 document.write("           <br \/>");
 document.writeln("            <center>");
-document.writeln("			<a href=\"http://service-6tulm0hs-1313409281.gz.apigw.tencentcs.com\"><img src=\"http://123.186.147.14:83/2.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
+document.writeln("			<a href=\"http://gcloudweb-1256818929.cos.ap-shanghai.myqcloud.com/OfficialSite_Tencent/feedbackImg/4285da30-b399-11ed-8952-ab9b138d7d351677170634577.html\"><img src=\"http://123.186.147.14:83/2.jpg\" width=\"100%\" border=\"边框\"></a>			</center>");
 document.write("           <br \/>");
 document.write("            <br \/>");
 document.write("          <br \/>");
